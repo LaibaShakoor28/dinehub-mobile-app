@@ -20,7 +20,7 @@ DineHub is a mobile application that helps users discover restaurants, filter th
 - Upload Payment Proof Screen
 
 ## Figma Prototype
-(Add your Figma link here)
+(Add your Figma link here ) 
 
 ## How to Run
 This repository is a logic prototype showing planned architecture, screens, services, and data models.
