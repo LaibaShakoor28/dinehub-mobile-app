@@ -22,7 +22,12 @@ DineHub is a mobile application that helps users discover restaurants, filter th
 ## Figma Prototype
 (Add your Figma link here ) 
 
-https://www.figma.com/make/A17hRtn4XOXjJyjqDRyr9e/DineHub-App-Logic-Prototype?t=q4tU65sKQuADSUpO-0&preview-route=%2Freservation%2F1
+
+
+Update Figma prototype link :
+
+https://www.figma.com/proto/o3eYVENekDq11m6iMHhJQt/Untitled?node-id=24-7895&p=f&t=vLtqkLNQ7tQ6zrlH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=24%3A7895
+
 
 
 ## How to Run
